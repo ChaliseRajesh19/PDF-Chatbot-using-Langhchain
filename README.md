@@ -83,5 +83,3 @@ $env:OPENAI_API_KEY = "your_api_key_here"
 - To contribute, open a PR and include a short description of changes.
 - For questions or help, reply in this workspace or open an issue in the project repo.
 
-**License**
-- Add a license file if you plan to publish; otherwise this project is private by default.
